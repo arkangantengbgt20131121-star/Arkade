@@ -1,4 +1,4 @@
-# Arkacade
+# Arkade
 
 A single-file arcade. Open `index.html` in a browser and play. No install, no account, no server.
 
